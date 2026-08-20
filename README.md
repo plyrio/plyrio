@@ -47,10 +47,9 @@
 
 ### 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=plyrio&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=plyrio&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plyrio&show_icons=true&theme=dark&locale=en&layout=compact" alt="plyrio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plyrio&show_icons=true&theme=dark&locale=en" alt="plyrio" /></p>
 
 ---
 
